@@ -1,4 +1,4 @@
-package chapter1;
+package dream.factory.learning.chapter1;
 
 public class bottles {
     public static void main (String[] arg) {
