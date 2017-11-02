@@ -1,7 +1,10 @@
 package dream.factory.learning.chapter1;
 
-
-// str 20, prva vjezba u knjizi... rjesio sam da ne pise zadnji "-" tako sto sam dodao break u x==1, a mozda sam trebao nekako sa curly braces...
+/*
+page 20, exercise 1... there are 8 parts of code that are scrambled up and i need to sort them to make a working java program...
+i can put as many curly braces as i want (because some are missing), the program needs to print out "a-b c-d"
+i have cheated a little and put "break" in the first if (was not part of the scrambled code) to get rid of the last "-"
+ */
 
 public class FridgeExercise {
     public static void main(String[] args) {
@@ -13,7 +16,7 @@ public class FridgeExercise {
             if (x == 1) {
                 System.out.print("d");
                 x = x - 1;
-                break;  //rjesenje za zadnji -, ne znam eli trebalo nekako drukcije...
+                break;
             }
 
             if (x == 2) {
