@@ -10,6 +10,14 @@ public class CoolFraze {
         int twoLength = drugaLista.length;
         int threeLength = trecaLista.length;
 
+        int nasumicno1=(int) (Math.random() * oneLength);
+        int nasumicno2=(int) (Math.random() * twoLength);
+        int nasumicno3=(int) (Math.random() * threeLength);
+
+
+        String fraza = prvaLista[nasumicno1] + drugaLista[nasumicno2] + trecaLista[nasumicno3];
+
+        System.out.println("Frane je " + fraza);
 
     }
 
