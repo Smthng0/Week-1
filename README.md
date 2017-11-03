@@ -48,3 +48,12 @@ See if the files will compile, how to fix and what is their output...
 11. *"By definition, I take one argument."* -> setter
 12. *"These help create encapsulation."* -> getter, setter, public, private
 13. *"I always fly solo."* -> return
+
+## Excercise 7.a, page 192:
+### i have to connect 4 blocks of code to the right output (7 outputs, not all are correct and not all codes are correct)
+**_(answers are a little jumbled in the book -> for the 3rd and 4th code blocks)_**
+
+1. the first code will print the "B m1", "A m2", "A m3" -> 2nd output 
+2. the 2nd code will print "B m1", "A m2", "C m3", 13 -> 4th output
+3. the 3rd code will print "A m1", "A m2", "C m3", 13 -> 7th output 
+4. the 4th code will print "B m1", "A m2", "C m3", 13 -> 4th output
