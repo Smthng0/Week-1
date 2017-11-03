@@ -57,3 +57,11 @@ See if the files will compile, how to fix and what is their output...
 2. the 2nd code will print "B m1", "A m2", "C m3", 13 -> 4th output
 3. the 3rd code will print "A m1", "A m2", "C m3", 13 -> 7th output 
 4. the 4th code will print "B m1", "A m2", "C m3", 13 -> 4th output
+
+## Exercise 7.b, page 193:
+### 4 check if the code will work... which will work and produce selected output?
+
+1. **True**
+2. **False** -> return type is wrong
+3. **False** -> doesn't override the frighten method
+4. **False** -> parametar is a byte isntead of int
