@@ -1,4 +1,4 @@
-package dream.factory.learning.chapter7.interfaces;
+package dream.factory.learning.chapter7.vice.teaching.interfaces;
 
 public class Trci implements Runnable{
     int n = 0;

@@ -1,4 +1,4 @@
-package dream.factory.learning.chapter7.staticlearn;
+package dream.factory.learning.chapter7.vice.teaching.staticlearn;
 
 public class CategoryStatic {
     private static String GLOBAL = "k";

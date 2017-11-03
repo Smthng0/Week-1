@@ -1,6 +1,4 @@
-package dream.factory.learning.chapter7.example.inheritance;
-
-import dream.factory.learning.chapter7.example.inheritance.Category;
+package dream.factory.learning.chapter7.vice.teaching.inheritance;
 
 public class Product {
     private float price;

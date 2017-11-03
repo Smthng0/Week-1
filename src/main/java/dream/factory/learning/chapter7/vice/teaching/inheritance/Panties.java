@@ -1,4 +1,4 @@
-package dream.factory.learning.chapter7.example.inheritance;
+package dream.factory.learning.chapter7.vice.teaching.inheritance;
 
 public class Panties extends Product {
     private boolean cipka;

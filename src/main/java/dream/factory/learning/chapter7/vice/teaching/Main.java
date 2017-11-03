@@ -1,7 +1,7 @@
-package dream.factory.learning.chapter7;
+package dream.factory.learning.chapter7.vice.teaching;
 
-import dream.factory.learning.chapter7.example.inheritance.Category;
-import dream.factory.learning.chapter7.example.inheritance.Product;
+import dream.factory.learning.chapter7.vice.teaching.inheritance.Category;
+import dream.factory.learning.chapter7.vice.teaching.inheritance.Product;
 
 public class Main {
     public static void main(String[] args) {
